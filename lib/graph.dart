@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-//component is an extension of an element in the design
+
+//stores the calendar dates
 class Component74 extends StatelessWidget {
   Component74({
     Key key,
@@ -40,7 +41,7 @@ class Component74 extends StatelessWidget {
           ),
         ),
         Transform.translate(
-          offset: Offset(105.0, 194.88),
+          offset: Offset(105.0, 194.87),
           child: Text(
             'Wed',
             style: TextStyle(
@@ -109,5 +110,6 @@ class Component74 extends StatelessWidget {
   }
 }
 
+//svg path string
 const String _svg_hjfzdk =
     '<svg viewBox="0.0 0.0 333.0 188.9" ><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(300.0, 125.16)" d="M 0 0 L 33 0 L 33 63.71525573730469 L 0 63.71525573730469 L 0 0 Z" fill="#83f7a6" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(250.0, 0.0)" d="M 0 0 L 33 0 L 33 187.8797912597656 L 0 187.8797912597656 L 0 0 Z" fill="#f9686e" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(200.0, 73.88)" d="M 0 0 L 33 0 L 33 114 L 0 114 L 0 0 Z" fill="#83f7a6" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(150.0, 33.89)" d="M 0 0 L 33 0 L 33 152.9855651855469 L 0 152.9855651855469 L 0 0 Z" fill="#f9686e" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(100.0, 97.55)" d="M 0 0 L 33 0 L 33 90.32666015625 L 0 90.32666015625 L 0 0 Z" fill="#83f7a6" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(50.0, 72.88)" d="M 0 0 L 33 0 L 33 115 L 0 115 L 0 0 Z" fill="#f9686e" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/><defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="6"/></filter></defs><path transform="translate(0.0, 119.26)" d="M 0 0 L 33 0 L 33 68.62408447265625 L 0 68.62408447265625 L 0 0 Z" fill="#83f7a6" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/></svg>';
