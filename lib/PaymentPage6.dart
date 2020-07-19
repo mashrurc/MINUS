@@ -5,6 +5,7 @@ import './PaymentPage8.dart';
 import './PaymentPage7.dart';
 import './Offset3.dart';
 
+//payment portal options
 class PaymentPage6 extends StatelessWidget {
   PaymentPage6({
     Key key,
