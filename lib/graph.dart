@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-
+//component is an extension of an element in the design
 class Component74 extends StatelessWidget {
   Component74({
     Key key,
