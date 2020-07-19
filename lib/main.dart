@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/page_link.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'Component11.dart';
+import 'circle.dart';
 
 void main() {
   runApp(SignUpPage());
