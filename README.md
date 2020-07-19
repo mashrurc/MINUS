@@ -13,7 +13,7 @@ The community tab is a great way to bring a sense of social interaction into thi
 
 The profile tab houses information all about you! From this menu, a visually appealing graph depicts your carbon emissions by month, with an option to see stats by day. 
 
-# #HOW IT CAN BE IMPLEMENTED
+## HOW IT CAN BE IMPLEMENTED
 The beauty of **MINUS** is that it tracks available data and creates a community based on emission awareness. Countries around the world can implement **MINUS** as an emission reduction incentive, similar to other energy incentives where customers get rebates when they get renewable energy sources like solar panels. With the tools at their disposal, countries can allow users to redeem their donations for free access to city recreational facilities or early access to events. Or, the classic rebate system works just fine as well, with countries being able to set a targeted threshold and users who achieve weekly emissions results below would be able to get cashback or rebates an incentive to continue lowering their emissions. Truly, there are an enormous amount of possibilities in the way a system like ours can be implemented across a city, nation or even worldwide.
 
 ## HOW WE BUILT IT
