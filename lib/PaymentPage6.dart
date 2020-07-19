@@ -285,6 +285,7 @@ class PaymentPage6 extends StatelessWidget {
   }
 }
 
+//svg paths
 const String _svg_4td93s =
     '<svg viewBox="0.0 0.0 414.0 736.0" ><defs><filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="6"/></filter></defs><path  d="M 0 0 L 413.9999694824219 0 L 413.9999694824219 736 L 0 736 L 0 0 Z" fill="#ffffff" stroke="none" stroke-width="2" stroke-miterlimit="4" stroke-linecap="butt" filter="url(#shadow)"/></svg>';
 const String _svg_19gh3 =
