@@ -3,6 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 // import './CommunityInitialize.dart';
 // import './ProfilePage.dart';
 //jj
+
 class PinDrop extends StatelessWidget {
   PinDrop({
     Key key,
