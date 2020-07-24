@@ -4,7 +4,7 @@ packages:
   adobe_xd:
     dependency: "direct main"
     description:
-      name: adobe_xd
+      name: minus
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4"
