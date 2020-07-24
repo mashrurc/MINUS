@@ -22,7 +22,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  adobe_xd: ^0.1.4
+  adobe_xd: ^0.1.3
   flutter_svg: ^0.17.0
   flutter:
     sdk: flutter
