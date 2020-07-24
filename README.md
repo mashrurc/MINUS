@@ -1,4 +1,5 @@
-# Minus
+# What is MINUS all about?
+
 ## MOTIVATION
 When we sat down as a group to decide what problem we could target, we came across something that happens every day, yet goes _completely unnoticed_. In layman’s terms, we realized that while everyone releases carbon emissions during their daily or weekly travels, truly, no one is able to visualize or understand their impact on the environment because there is no way to track their emissions. Thus, the idea of **MINUS** was born, focused on educating individuals to _reduce_ their emissions by bringing awareness and having a social aspect to it all by being able to compete with friends for the lowest emissions. 
 
